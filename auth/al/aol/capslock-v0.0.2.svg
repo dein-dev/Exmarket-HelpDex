@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>capslock solid black</title>
+    <g id="capslock-solid-black" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Master_icon_grid-working-file--copy_capslock-solid" transform="translate(6.000000, 1.000000)" fill="#000000" fill-rule="nonzero">
+            <rect id="Rectangle" x="7.97" y="38.86" width="19.98" height="5.92" rx="2"></rect>
+            <path d="M35.24,20.19 L20.24,2.06 C19.6860765,1.32923289 18.8219797,0.89993644 17.905,0.89993644 C16.9880203,0.89993644 16.1239235,1.32923289 15.57,2.06 L0.57,20.19 C-0.66,21.73 0.28,23 2.75,23 L8,23 L8,33.42 C8,34.5245695 8.8954305,35.42 10,35.42 L26,35.42 C27.1045695,35.42 28,34.5245695 28,33.42 L28,23 L33.1,23 C35.57,23 36.53,21.74 35.24,20.19 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>
