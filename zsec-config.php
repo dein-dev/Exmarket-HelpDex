@@ -8,6 +8,6 @@ $api = "Sohlution4uJ0KWGJHI7EAC"; //zsec api
 $zsec_site = "https://Zsec.youdontcare.xyz/";
 
 // on off zsec
-$zsec_p = "on";
+$zsec_p = "off";
 
 ?>
